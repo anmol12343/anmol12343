@@ -10,5 +10,5 @@
 - 💬 Ask me about <b> FrontEnd development </b>
 - 📫 How to reach me: <b> anmol36pandey@gamil.com </b>
 - 😄 Pronouns: <b>he/him</b>
-- ⚡ Fun fact: <b> I can flirt with 6 girls at same time 😉 </b>
+
 
